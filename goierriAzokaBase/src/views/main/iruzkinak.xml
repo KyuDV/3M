@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<opiniones>
+    <opinion>
+        <nombre>Nombre del Usuario</nombre>
+        <correo>correo@example.com</correo>
+        <mensaje>Contenido del comentario.</mensaje>
+        <pagina>URL de la página</pagina>
+        <fecha>Fecha y hora del comentario</fecha>
+    </opinion>
+    <!-- Pueden haber más opiniones aquí -->
+<opinion><nombre>dadad</nombre><correo>dadad@gmail.com</correo><mensaje>dadada</mensaje><kurtsoa>1</kurtsoa><fecha>2024-03-20 08:37:45</fecha></opinion></opiniones>
